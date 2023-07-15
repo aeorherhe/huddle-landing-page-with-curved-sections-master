@@ -25,8 +25,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-- Solution URL: [solution](https://github.com/aeorherhe/tip-calculator-app-main.git)
-- Live Site URL: [live site](https://aeorherhe-tip-calculator-app.netlify.app/)
+- Solution URL: [solution](https://github.com/aeorherhe/huddle-landing-page-with-curved-sections-master.git)
+- Live Site URL: [live site](https://aeorherhe-huddle-landing-page-two.netlify.app/)
 
 ## My process
 
@@ -36,7 +36,6 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- Simple JavaScript
 
 ## Author
 
